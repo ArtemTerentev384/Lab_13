@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_13\Lab_13\Source.c(40,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_13\Lab_13\Source.c(61,11): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_13\Lab_13\Source.c(138,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_13\Lab_13\Source.c(179,9): warning C4098: HomeWork: функция типа "void", возвращающая значение
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_13\Lab_13\Source.c(187,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab_13.vcxproj -> C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_13\x64\Debug\Lab_13.exe
